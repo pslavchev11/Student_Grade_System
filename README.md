@@ -46,4 +46,4 @@ To build and run the project, you need the following:
 ### Clone the Repository
 ```bash
 git clone https://github.com/pslavchev11/Student_Grade_System.git
-cd student-grade-management
+cd Student_Grade_Management
