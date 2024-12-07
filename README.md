@@ -23,7 +23,7 @@ The **Student Grade Management System** is a desktop application designed to hel
 ## Screenshots
 
 ### Main Window
-![Main Window](./screenshots/main_window.png)
+[Main Window](https://scontent.fsof1-1.fna.fbcdn.net/v/t1.15752-9/462555461_1271843854155807_1846157829478524063_n.png?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=5qnN0cz4f-8Q7kNvgHWQ8Md&_nc_zt=23&_nc_ht=scontent.fsof1-1.fna&oh=03_Q7cD1QFMFYR3ME_E0lQzx5e6Gf9S3jKOVSG12RJfiWsRPWw9Iw&oe=677BFC04)
 
 ### Details Window
 ![Details Window](./screenshots/details_window.png)
