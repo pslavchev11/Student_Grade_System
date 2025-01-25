@@ -23,22 +23,25 @@ The **Student Grade Management System** is a desktop application designed to hel
 ## Screenshots
 
 ### Main Window
-[Main Window](https://scontent.fsof1-1.fna.fbcdn.net/v/t1.15752-9/462555461_1271843854155807_1846157829478524063_n.png?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=5qnN0cz4f-8Q7kNvgHWQ8Md&_nc_zt=23&_nc_ht=scontent.fsof1-1.fna&oh=03_Q7cD1QFMFYR3ME_E0lQzx5e6Gf9S3jKOVSG12RJfiWsRPWw9Iw&oe=677BFC04)
+[Main Window](https://github.com/user-attachments/assets/c02d326a-aa6f-46b7-94c9-c39916f73817)
 
 ### Details Window
-[Details Window](https://scontent.xx.fbcdn.net/v/t1.15752-9/462563718_1093210549169809_4921649970791441350_n.png?stp=dst-png_s526x395&_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_ohc=WTi-9TihATsQ7kNvgG0QMDi&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QG_URvDvNolcmcT2qSTaWjFWFwzLzGN7v2I3wESJ3H7VA&oe=677C01DB)
+[Details Window](https://github.com/user-attachments/assets/d9b5456b-04ee-483d-9a9c-501bea8f6961)
 
 ### Add Student Button
-[Add Student Button](https://scontent.fsof1-1.fna.fbcdn.net/v/t1.15752-9/465237135_1744273946355557_8560616613625648329_n.png?_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_ohc=l_zEeMQ23p8Q7kNvgH48n8U&_nc_zt=23&_nc_ht=scontent.fsof1-1.fna&oh=03_Q7cD1QEefbSxnhBEzxsRQoodb2kRT0eZ4Xo-WaqXlTlqTVeVaw&oe=677BE406)
+[Add Student](https://github.com/user-attachments/assets/9dc925f4-7f46-4b1d-9e90-2cb5ac346eed)
 
 ### Save to File Button
-[Save to File](https://scontent.fsof1-2.fna.fbcdn.net/v/t1.15752-9/462568726_938256131140260_1996538969110937454_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Mzv2O0Lp01sQ7kNvgFU44yC&_nc_zt=23&_nc_ht=scontent.fsof1-2.fna&oh=03_Q7cD1QG9jgWiQFNqWGYPCGI5KVDB2dLQUyCcr6pU4Db7V-8C5Q&oe=677BED8A)
+[Save to File](https://github.com/user-attachments/assets/edbf46fa-b3ff-489d-aee8-3bc74b6ebbf6)
+
 
 ### Calculate Average - Group Button
-[Calculate Average - Group](https://scontent.fsof1-2.fna.fbcdn.net/v/t1.15752-9/462540207_428779246957834_139069608965005699_n.png?_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_ohc=MVpj8bJN0m8Q7kNvgGbKFHV&_nc_zt=23&_nc_ht=scontent.fsof1-2.fna&oh=03_Q7cD1QHRMS4FfVlgtZHINhbGdCLbEk8H3bkwnCfOxdwBgr9mHw&oe=677BF2D4)
+[Calculate Average - Group](https://github.com/user-attachments/assets/a7f31753-db39-45dd-b1c8-263b1b260534)
+
 
 ### Calculate Average - Student Button
-[Calculate Average - Student](https://scontent.fsof1-2.fna.fbcdn.net/v/t1.15752-9/462572929_1337751770600036_8984729334662324863_n.png?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_ohc=D-Y4SWCee1cQ7kNvgGo-PbH&_nc_zt=23&_nc_ht=scontent.fsof1-2.fna&oh=03_Q7cD1QH6SPcnc79SoavqPhESGfQvEwvSnxXp_u4TyuWX0JNpaA&oe=677BD1B8)
+[Calculate Average - Student](https://github.com/user-attachments/assets/2b1f28d9-6a36-4c28-bc62-25378d53e305)
+
 
 ---
 
